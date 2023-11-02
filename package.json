@@ -1,0 +1,19 @@
+{
+  "name": "kk4-pak-aoc",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon main.js"
+  },
+  "author": "Qiila",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "start": "^5.1.0"
+  },
+  "keywords": [],
+  "description": ""
+}
